@@ -2,12 +2,7 @@
 // This line is standard and specifies the software license.
 pragma solidity ^0.8.0;
 
-/**
- * @title SimpleRaffle
- * @dev A basic, decentralized lottery contract.
- * Users can enter by sending a fixed ticket price.
- * The manager (deployer) can pick a winner and distribute the prize.
- */
+
 contract SimpleRaffle {
 
     // --- STATE VARIABLES ---
