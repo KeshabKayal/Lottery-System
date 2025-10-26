@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 
 contract SimpleRaffle {
 
-    // --- STATE VARIABLES ---
+
 
     // The address of the person who deployed the contract.
     address payable public manager;
