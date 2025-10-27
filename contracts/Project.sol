@@ -13,7 +13,7 @@ contract SimpleRaffle {
     // A dynamic list to store the addresses of all participants.
     address[] public participants;
     
-    // The fixed price for one raffle ticket.
+    // The fixed price for one raffle ticket
     // We set it to 0.01 Ether (using the 'ether' keyword is very handy).
     uint public constant TICKET_PRICE = 0.01 ether;
     
