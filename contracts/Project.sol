@@ -7,7 +7,7 @@ contract SimpleRaffle {
 
 
 
-    // The address of the person who deployed the contract.
+    // The address of the person who deployed the contract
     address payable public manager;
     
     // A dynamic list to store the addresses of all participants.
