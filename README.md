@@ -38,7 +38,7 @@ To provide a trustless and provably fair platform for a lottery or raffle, remov
 
 **Deployed Contract Address:** `0x7D4c87746a7C4C83A613E9448e0204fc1bC005750`
 
-**Verification:** `Verified on Sourcify`
+**Verification:** `Verified on Sourcify`.
 <img width="1919" height="855" alt="Screenshot 2025-11-04 025545" src="https://github.com/user-attachments/assets/ac05853c-7555-4d02-aa04-51ec3603ee9c" />
 
 
